@@ -1,4 +1,4 @@
-# ML-Instacart-Kaggle
+# Rules - ML-Instacart-Kaggle
 
 Rules
 One account per participant
